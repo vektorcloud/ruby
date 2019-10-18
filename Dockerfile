@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/base:3.7
+FROM quay.io/vektorcloud/base:3.9
 
 RUN apk add --no-cache ruby ruby-dev ruby-bundler ruby-irb ruby-rake \
                        ruby-io-console ruby-bigdecimal ruby-json && \
