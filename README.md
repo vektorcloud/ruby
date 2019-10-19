@@ -1,6 +1,6 @@
 # ruby
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/ruby)
 
 Alpine-based Ruby image
 
